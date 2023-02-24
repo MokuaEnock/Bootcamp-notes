@@ -1,5 +1,7 @@
 # Learning Objectives
 
+By the end of this lesson you should be able to:
+
 * Explain what data types are and why they are important in Python programming
 * Identify and define the integer, float, boolean, and string data types in Python
 * Use the `type()` function to check the data type of a variable in Python
