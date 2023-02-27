@@ -2,11 +2,9 @@
 
 Python is a popular programming language that has become increasingly popular in the field of data analysis. With its intuitive syntax and powerful libraries, Python provides a user-friendly and efficient way to work with data. In this document, we will explore the fundamentals of Python for data analysis and provide an introduction to some of the key concepts and tools used in the field.
 
-
 ## Why python?
 
 One of the main advantages of Python for data analysis is its flexibility. Python can be used to work with a wide range of data formats, including text files, spreadsheets, and databases. Python also has a number of powerful libraries that make it easy to work with data, including NumPy, Pandas, and Matplotlib.
-
 
 ## Sample Libraries
 
