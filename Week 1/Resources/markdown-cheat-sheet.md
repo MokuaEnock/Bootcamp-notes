@@ -11,7 +11,9 @@ These are the elements outlined in John Gruber’s original design document. All
 ### Heading
 
 # H1
+
 ## H2
+
 ### H3
 
 ### Bold
@@ -60,10 +62,10 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Table
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
 
 ### Fenced Code Block
 
@@ -83,7 +85,7 @@ Here's a sentence with a footnote. [^1]
 
 ### Heading ID
 
-### My Great Heading {#custom-id}
+### My Great Heading
 
 ### Definition List
 
@@ -96,13 +98,13 @@ term
 
 ### Task List
 
-- [x] Write the press release
-- [ ] Update the website
+- [X] Write the press release
+- [X] Update the website
 - [ ] Contact the media
 
 ### Emoji
 
-That is so funny! :joy:
+That is so funny! 😂
 
 (See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
 
