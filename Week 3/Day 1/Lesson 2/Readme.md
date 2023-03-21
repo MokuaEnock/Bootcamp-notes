@@ -20,5 +20,4 @@ It's important to note that simple linear regression assumes a linear relationsh
 
 A few things to note when using linear regression:
 - This is best for predicting continuous variables: Something like price, duration, etc. We will unveil other algorithms later that deal with discrete variables.
-- As you can probably tell from the graph above, linear regression models can be heavily biased by a few outliers in the data. Your data cleaning will be critical to get the most out of linear
-regression.
+- As you can probably tell from the graph above, linear regression models can be heavily biased by a few outliers in the data. Your data cleaning will be critical to get the most out of linear regression.
